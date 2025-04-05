@@ -1,0 +1,1 @@
+This is a python project made by me to test the possibilities of Grafana using a fake dataset created using faker library on aws rds.
